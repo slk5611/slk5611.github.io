@@ -13,4 +13,4 @@
 :HL["/blog/meta-tags.png","image"]
 :HL["/blog/remote-team.png","image"]
 :HL["/blog/developer-skills.png","image"]
-0:{"buildId":"2vgTkhCEep6KrwsXnz6kr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Zyv7Bdp5ej9EGt4NpQMnz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
